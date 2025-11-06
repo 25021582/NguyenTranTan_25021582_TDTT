@@ -1,1 +1,1 @@
-print("Xin Chao, Chuc Ban Mot Ngay Tot Lanh!")
+print("Xin Chao, Chuc Ban Mot Ngay Tot!")
